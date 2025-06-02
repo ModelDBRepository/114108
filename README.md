@@ -21,10 +21,10 @@ This makes a trace similar to fig 6 or 7a in the paper of Wu et al. 2008:
 
 Bard Ermentrout's website [http://www.pitt.edu/~phase/](http://www.pitt.edu/~phase/) describes how to get and use xpp (Bard wrote xpp).
 
-The model file was submitted by:
-Dr. Sheng-Nan Wu
-Department of Physiology
-Natl Cheng Kung U Med Coll
+The model file was submitted by:  
+Dr. Sheng-Nan Wu  
+Department of Physiology  
+Natl Cheng Kung U Med Coll  
 Tainan 70101, Taiwan
 
 ---
