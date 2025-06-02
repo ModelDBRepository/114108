@@ -1,4 +1,4 @@
-# This is the readme.txt for the models associated with the paper
+# This is the readme for the models associated with the paper
 
 Wu SN, Chen BS, Lin MW, Liu YC. Contribution of slowly inactivating potassium current to delayed firing of action potentials in NG108-15 neuronal cells: Experimental and theoretical studies. *J Theor Biol* 2008;252:711-21
 
@@ -29,4 +29,4 @@ Tainan 70101, Taiwan
 
 ---
 
-2025-06-02: Standardized to Markdown.
+2025-06-02: Converted README to Markdown.
